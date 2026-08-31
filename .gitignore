@@ -1,0 +1,8 @@
+# Build artifacts
+build/
+
+# Editor-local settings
+.vscode/
+
+# Optional: ignore compiled binaries in the repo root if you ever create them
+*.out
